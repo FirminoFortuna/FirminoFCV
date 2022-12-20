@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #f7f7f7;
+    
+}
+
+.foto-perfil{
+    border-radius: 200%;
+    max-width: 200px;
+    border: 1px solid black;
+}
